@@ -39,7 +39,6 @@ Gaming Center Management Software with employee and expenses control along with 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/it2121/
 
-## Copyright and License
 
 Copyright 2023 Mohammed Talib.
 
