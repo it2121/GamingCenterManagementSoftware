@@ -19,19 +19,19 @@ Gaming Center Management Software with employee and expenses control along with 
 
 
 </br>
- <img src="1.png"></img>
+ <img src="11.png"></img>
  </br>
- <img src="2.png"></img>
+ <img src="22.png"></img>
   </br>
- <img src="3.png"></img>
+ <img src="33.png"></img>
   </br>
- <img src="4.png"></img>
+ <img src="44.png"></img>
   </br>
- <img src="5.png"></img>
+ <img src="55.png"></img>
   </br>
- <img src="6.png"></img>
+ <img src="66.png"></img>
   </br>
- <img src="7.png"></img>
+ <img src="77.png"></img>
  
 </br>
 
